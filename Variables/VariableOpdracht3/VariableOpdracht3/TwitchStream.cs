@@ -1,4 +1,6 @@
-﻿namespace VariableOpdracht3
+﻿using System.Security.Cryptography.X509Certificates;
+
+namespace VariableOpdracht3
 {
     //vul de ??? in
     internal class TwitchStream
@@ -14,7 +16,7 @@
             return tag;
         }
 
-        internal void SetTag(???)//maak hier een variable: type: string, name: tag
+        internal void SetTag(string tag)//maak hier een variable: type: string, name: tag
         {
             this.tag = tag;
         }

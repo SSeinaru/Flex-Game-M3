@@ -18,8 +18,11 @@ namespace VariableOpdracht2
             //followers, waarde: hoeveel followers
             //automod, waarde: staat automod aan?
 
-
-            Console.WriteLine("Hello, World!");
+            twitchStream.StreamName = "Dumbasses play Apex legends once more";
+            twitchStream.LastStreamName = "We getting dubs (No we aren't)";
+            twitchStream.StreamGame = new Game("ApexLegends");
+            twitchStream.Followers = 36;
+            twitchStream.Automod = true;
         }
     }
 }
