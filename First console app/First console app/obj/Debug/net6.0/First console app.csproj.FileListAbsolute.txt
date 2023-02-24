@@ -1,0 +1,15 @@
+C:\Users\Seinaru\Downloads\M3 Arcade\Flex\First console app\First console app\bin\Debug\net6.0\First console app.exe
+C:\Users\Seinaru\Downloads\M3 Arcade\Flex\First console app\First console app\bin\Debug\net6.0\First console app.deps.json
+C:\Users\Seinaru\Downloads\M3 Arcade\Flex\First console app\First console app\bin\Debug\net6.0\First console app.runtimeconfig.json
+C:\Users\Seinaru\Downloads\M3 Arcade\Flex\First console app\First console app\bin\Debug\net6.0\First console app.dll
+C:\Users\Seinaru\Downloads\M3 Arcade\Flex\First console app\First console app\bin\Debug\net6.0\First console app.pdb
+C:\Users\Seinaru\Downloads\M3 Arcade\Flex\First console app\First console app\obj\Debug\net6.0\First console app.csproj.AssemblyReference.cache
+C:\Users\Seinaru\Downloads\M3 Arcade\Flex\First console app\First console app\obj\Debug\net6.0\First console app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Seinaru\Downloads\M3 Arcade\Flex\First console app\First console app\obj\Debug\net6.0\First console app.AssemblyInfoInputs.cache
+C:\Users\Seinaru\Downloads\M3 Arcade\Flex\First console app\First console app\obj\Debug\net6.0\First console app.AssemblyInfo.cs
+C:\Users\Seinaru\Downloads\M3 Arcade\Flex\First console app\First console app\obj\Debug\net6.0\First console app.csproj.CoreCompileInputs.cache
+C:\Users\Seinaru\Downloads\M3 Arcade\Flex\First console app\First console app\obj\Debug\net6.0\First console app.dll
+C:\Users\Seinaru\Downloads\M3 Arcade\Flex\First console app\First console app\obj\Debug\net6.0\refint\First console app.dll
+C:\Users\Seinaru\Downloads\M3 Arcade\Flex\First console app\First console app\obj\Debug\net6.0\First console app.pdb
+C:\Users\Seinaru\Downloads\M3 Arcade\Flex\First console app\First console app\obj\Debug\net6.0\First console app.genruntimeconfig.cache
+C:\Users\Seinaru\Downloads\M3 Arcade\Flex\First console app\First console app\obj\Debug\net6.0\ref\First console app.dll
