@@ -1,0 +1,15 @@
+C:\Users\Seinaru\Downloads\M3 Arcade\Flex\Flex-Game-M3\IfElse\IfOpdracht2\IfOpdracht2\bin\Debug\net6.0\IfOpdracht2.exe
+C:\Users\Seinaru\Downloads\M3 Arcade\Flex\Flex-Game-M3\IfElse\IfOpdracht2\IfOpdracht2\bin\Debug\net6.0\IfOpdracht2.deps.json
+C:\Users\Seinaru\Downloads\M3 Arcade\Flex\Flex-Game-M3\IfElse\IfOpdracht2\IfOpdracht2\bin\Debug\net6.0\IfOpdracht2.runtimeconfig.json
+C:\Users\Seinaru\Downloads\M3 Arcade\Flex\Flex-Game-M3\IfElse\IfOpdracht2\IfOpdracht2\bin\Debug\net6.0\IfOpdracht2.dll
+C:\Users\Seinaru\Downloads\M3 Arcade\Flex\Flex-Game-M3\IfElse\IfOpdracht2\IfOpdracht2\bin\Debug\net6.0\IfOpdracht2.pdb
+C:\Users\Seinaru\Downloads\M3 Arcade\Flex\Flex-Game-M3\IfElse\IfOpdracht2\IfOpdracht2\obj\Debug\net6.0\IfOpdracht2.csproj.AssemblyReference.cache
+C:\Users\Seinaru\Downloads\M3 Arcade\Flex\Flex-Game-M3\IfElse\IfOpdracht2\IfOpdracht2\obj\Debug\net6.0\IfOpdracht2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Seinaru\Downloads\M3 Arcade\Flex\Flex-Game-M3\IfElse\IfOpdracht2\IfOpdracht2\obj\Debug\net6.0\IfOpdracht2.AssemblyInfoInputs.cache
+C:\Users\Seinaru\Downloads\M3 Arcade\Flex\Flex-Game-M3\IfElse\IfOpdracht2\IfOpdracht2\obj\Debug\net6.0\IfOpdracht2.AssemblyInfo.cs
+C:\Users\Seinaru\Downloads\M3 Arcade\Flex\Flex-Game-M3\IfElse\IfOpdracht2\IfOpdracht2\obj\Debug\net6.0\IfOpdracht2.csproj.CoreCompileInputs.cache
+C:\Users\Seinaru\Downloads\M3 Arcade\Flex\Flex-Game-M3\IfElse\IfOpdracht2\IfOpdracht2\obj\Debug\net6.0\IfOpdracht2.dll
+C:\Users\Seinaru\Downloads\M3 Arcade\Flex\Flex-Game-M3\IfElse\IfOpdracht2\IfOpdracht2\obj\Debug\net6.0\refint\IfOpdracht2.dll
+C:\Users\Seinaru\Downloads\M3 Arcade\Flex\Flex-Game-M3\IfElse\IfOpdracht2\IfOpdracht2\obj\Debug\net6.0\IfOpdracht2.pdb
+C:\Users\Seinaru\Downloads\M3 Arcade\Flex\Flex-Game-M3\IfElse\IfOpdracht2\IfOpdracht2\obj\Debug\net6.0\IfOpdracht2.genruntimeconfig.cache
+C:\Users\Seinaru\Downloads\M3 Arcade\Flex\Flex-Game-M3\IfElse\IfOpdracht2\IfOpdracht2\obj\Debug\net6.0\ref\IfOpdracht2.dll
