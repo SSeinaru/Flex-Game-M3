@@ -14,9 +14,9 @@ namespace ForOpdracht4
             //nu willen we per vector door de array lopen dat moet dus met stappen van 3
             for (int i = 0; i < vectors.Length; i++)//zorg ervoor dat we niet i + 1 doen maar +3
             {
-                float x = vectors[??];//pak hier de waarde op index i (x)
-                float y = vectors[??];//pak hier de waarde op index i + 1 (y)
-                float z = vectors[??];//pak hier de waarde op index i + 2 (z)
+                float x = vectors[i];//pak hier de waarde op index i (x)
+                float y = vectors[i] + 1;//pak hier de waarde op index i + 1 (y)
+                float z = vectors[i] + 2;//pak hier de waarde op index i + 2 (z)
                 Console.WriteLine($"vector {x}, {y}, {z}");
             }
 
