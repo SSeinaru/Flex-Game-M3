@@ -1,0 +1,5 @@
+C:\Users\Seinaru\Downloads\M3 Arcade\Flex\Flex-Game-M3\ExtraOpdrachten\Classes 2\Classes\Classes\obj\Debug\net6.0\Classes.csproj.AssemblyReference.cache
+C:\Users\Seinaru\Downloads\M3 Arcade\Flex\Flex-Game-M3\ExtraOpdrachten\Classes 2\Classes\Classes\obj\Debug\net6.0\Classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Seinaru\Downloads\M3 Arcade\Flex\Flex-Game-M3\ExtraOpdrachten\Classes 2\Classes\Classes\obj\Debug\net6.0\Classes.AssemblyInfoInputs.cache
+C:\Users\Seinaru\Downloads\M3 Arcade\Flex\Flex-Game-M3\ExtraOpdrachten\Classes 2\Classes\Classes\obj\Debug\net6.0\Classes.AssemblyInfo.cs
+C:\Users\Seinaru\Downloads\M3 Arcade\Flex\Flex-Game-M3\ExtraOpdrachten\Classes 2\Classes\Classes\obj\Debug\net6.0\Classes.csproj.CoreCompileInputs.cache

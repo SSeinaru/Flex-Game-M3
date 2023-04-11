@@ -1,0 +1,15 @@
+C:\Users\Seinaru\Downloads\M3 Arcade\Flex\Flex-Game-M3\ExtraOpdrachten\Classes 2\ClassesConstructor\ClassesConstructor\bin\Debug\net6.0\ClassesConstructor.exe
+C:\Users\Seinaru\Downloads\M3 Arcade\Flex\Flex-Game-M3\ExtraOpdrachten\Classes 2\ClassesConstructor\ClassesConstructor\bin\Debug\net6.0\ClassesConstructor.deps.json
+C:\Users\Seinaru\Downloads\M3 Arcade\Flex\Flex-Game-M3\ExtraOpdrachten\Classes 2\ClassesConstructor\ClassesConstructor\bin\Debug\net6.0\ClassesConstructor.runtimeconfig.json
+C:\Users\Seinaru\Downloads\M3 Arcade\Flex\Flex-Game-M3\ExtraOpdrachten\Classes 2\ClassesConstructor\ClassesConstructor\bin\Debug\net6.0\ClassesConstructor.dll
+C:\Users\Seinaru\Downloads\M3 Arcade\Flex\Flex-Game-M3\ExtraOpdrachten\Classes 2\ClassesConstructor\ClassesConstructor\bin\Debug\net6.0\ClassesConstructor.pdb
+C:\Users\Seinaru\Downloads\M3 Arcade\Flex\Flex-Game-M3\ExtraOpdrachten\Classes 2\ClassesConstructor\ClassesConstructor\obj\Debug\net6.0\ClassesConstructor.csproj.AssemblyReference.cache
+C:\Users\Seinaru\Downloads\M3 Arcade\Flex\Flex-Game-M3\ExtraOpdrachten\Classes 2\ClassesConstructor\ClassesConstructor\obj\Debug\net6.0\ClassesConstructor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Seinaru\Downloads\M3 Arcade\Flex\Flex-Game-M3\ExtraOpdrachten\Classes 2\ClassesConstructor\ClassesConstructor\obj\Debug\net6.0\ClassesConstructor.AssemblyInfoInputs.cache
+C:\Users\Seinaru\Downloads\M3 Arcade\Flex\Flex-Game-M3\ExtraOpdrachten\Classes 2\ClassesConstructor\ClassesConstructor\obj\Debug\net6.0\ClassesConstructor.AssemblyInfo.cs
+C:\Users\Seinaru\Downloads\M3 Arcade\Flex\Flex-Game-M3\ExtraOpdrachten\Classes 2\ClassesConstructor\ClassesConstructor\obj\Debug\net6.0\ClassesConstructor.csproj.CoreCompileInputs.cache
+C:\Users\Seinaru\Downloads\M3 Arcade\Flex\Flex-Game-M3\ExtraOpdrachten\Classes 2\ClassesConstructor\ClassesConstructor\obj\Debug\net6.0\ClassesConstructor.dll
+C:\Users\Seinaru\Downloads\M3 Arcade\Flex\Flex-Game-M3\ExtraOpdrachten\Classes 2\ClassesConstructor\ClassesConstructor\obj\Debug\net6.0\refint\ClassesConstructor.dll
+C:\Users\Seinaru\Downloads\M3 Arcade\Flex\Flex-Game-M3\ExtraOpdrachten\Classes 2\ClassesConstructor\ClassesConstructor\obj\Debug\net6.0\ClassesConstructor.pdb
+C:\Users\Seinaru\Downloads\M3 Arcade\Flex\Flex-Game-M3\ExtraOpdrachten\Classes 2\ClassesConstructor\ClassesConstructor\obj\Debug\net6.0\ClassesConstructor.genruntimeconfig.cache
+C:\Users\Seinaru\Downloads\M3 Arcade\Flex\Flex-Game-M3\ExtraOpdrachten\Classes 2\ClassesConstructor\ClassesConstructor\obj\Debug\net6.0\ref\ClassesConstructor.dll
